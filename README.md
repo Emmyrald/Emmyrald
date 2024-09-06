@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Emmyrald
 - 👀 I’m interested in ...Python
-- 🌱 I’m currently learning ...Backend using python
+- 🌱 I’m currently learning ... Python for Data Science/Machine Learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
